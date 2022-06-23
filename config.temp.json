@@ -1,0 +1,17 @@
+{
+	"bot_id": "",
+
+	"token": "",
+
+	"guild_id": "",
+
+	"record_channel_id": "",
+
+	"auth_channel_id": "",
+
+	"spect_role_id": "",
+
+	"player_role_id": "",
+
+	"osu_api_key": ""
+}
